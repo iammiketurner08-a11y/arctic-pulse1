@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.example/index.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/services.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/massage-therapy.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/physiotherapy.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/functional-strength.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/health-wellness.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/education-workshops.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/corporate-community.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/patient-info.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/resources.html</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
+</urlset>
